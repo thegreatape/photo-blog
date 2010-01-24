@@ -1,0 +1,18 @@
+---
+layout: default
+title: Some Idiot With A Camera
+---
+<div class="intro">&nbsp;<!-- I have a camera and I'm not very good with it. --></div>
+<!--  Let's see if I get better with practice.</div> -->
+{% for post in site.posts limit:5 %}
+<div class="post">
+  <div class="data">
+    <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+    <span class="date">{{post.date | date_to_long_string}}</span>
+  </div>
+  <div class="content">
+    {% if post.img %}<a href="{{post.img_link}}"><img src="{{post.img}}"/></a>{% endif %}
+    {{post.content}}
+  </div>
+</div>
+{% endfor %}

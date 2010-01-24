@@ -1,0 +1,35 @@
+body{ font-family: Helvetica,Arial,clean,sans-serif;
+      font-size:110%;
+      line-height:1.5em;
+      padding: 0px;
+      margin: 0px;} 
+a { color: black; 
+    font-weight: bold;}
+a img { border:none; }
+.wrap { margin-left: 300px;
+        width: 700px;}
+h1 { padding: 10px;
+     padding-left: 300px;
+     margin: 10px 0px 10px -10px;
+     font-size:195%;
+     }
+.intro { width: 510px; 
+         color: #666;
+         background: #ababab;
+         height: 1px;
+         margin-left: -10px;
+         margin-bottom: 10px;}
+.post .data { margin-left: -220px;
+              float: left;
+              width: 200px;
+              text-align: right;}
+.post { clear: both; 
+        margin-bottom: 50px;}
+.post .data { border-right: 1px solid #ababab;
+              padding-right: 10px;}
+.post .data h2 { margin: 0px; }
+.post .data h2 a { text-decoration: none;}
+
+.post .content { text-align:justify; 
+                 width: 500px;}
+.date { color: #666; }
