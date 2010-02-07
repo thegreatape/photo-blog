@@ -1,5 +1,5 @@
 ---
 title: Berries 
 img: http://farm3.static.flickr.com/2628/3998742049_1b4fe1803a.jpg 
-img_link: http://www.flickr.com/photos/63503896@N00/3998742049/ 
+img_link: http://www.flickr.com/photos/twitchdotnet/3998742049/ 
 ---
