@@ -1,5 +1,5 @@
 ---
 title: Thorns 
-img: http://farm4.static.flickr.com/3481/3993406619_381fc6a555_s.jpg 
-img_link: http://www.flickr.com/photos/63503896@N00/3993406619/ 
-: --- 
+img: http://farm4.static.flickr.com/3481/3993406619_381fc6a555.jpg 
+img_link: http://www.flickr.com/photos/twitchdotnet/3993406619/ 
+---

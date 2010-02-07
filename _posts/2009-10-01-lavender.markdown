@@ -1,5 +1,5 @@
 ---
 title: Lavender 
-img: http://farm3.static.flickr.com/2525/3973229472_8e0570aa6e_s.jpg 
-img_link: http://www.flickr.com/photos/63503896@N00/3973229472/ 
-: --- 
+img: http://farm3.static.flickr.com/2525/3973229472_8e0570aa6e.jpg 
+img_link: http://www.flickr.com/photos/twitchdotnet/3973229472/ 
+---

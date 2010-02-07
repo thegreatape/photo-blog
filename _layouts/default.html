@@ -6,11 +6,13 @@
   </head>
   <body>
     <h1>{{page.title}}</h1>
+    <div class="intro">I'm Thomas, I have a camera, and I'm not very good with it. This blog is dedicated to practice in order to remedy that last part.</div>
     <div class="wrap">
     {{content}}
-    {% if paginator.previous_page %}<a href="{% if paginator.previous_page > 1 %}/page{{ paginator.previous_page }}{%endif%}">&lt;&lt; Previous</a>{% endif %}
-    {% if paginator.next_page and paginator.previous_page %}|{% endif %}
-    {% if paginator.next_page %}<a href="/page{{ paginator.next_page }}">Next &gt;&gt;</a>{% endif %}
-    </wrap>
+    <div class="pagination">{% if paginator.previous_page %}<a href="{% if paginator.previous_page > 1 %}/page{{ paginator.previous_page }}{%endif%}">&lt;&lt; Previous</a>{% endif %}
+    {% if paginator.previous_page %}| {% endif %}<a href="/">Home</a> {% if paginator.next_page %} |{% endif %}
+    {% if paginator.next_page %}<a href="/page{{ paginator.next_page }}">Next &gt;&gt;</a>{% endif %}</div>
+    <div class="outro">Powered by <a href="http://wiki.github.com/mojombo/jekyll/">Jekyll</a>.  All content is &copy; 2009-2010 Thomas Mayfield and available under a <a href="http://creativecommons.org/licenses/by-nc/2.0/deed.en">Creative Commons Attribute-Noncommercial</a> license. Don't be a tool. :-)</div>
+    </div>
   </body>
 </html>
