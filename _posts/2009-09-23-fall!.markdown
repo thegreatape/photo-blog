@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fall! 
 img: http://farm4.static.flickr.com/3515/3949841182_b4c78d8c85.jpg 
 img_link: http://www.flickr.com/photos/twitchdotnet/3949841182/ 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Carts 
 img: http://farm4.static.flickr.com/3480/3999506076_5066f42359.jpg 
 img_link: http://www.flickr.com/photos/twitchdotnet/3999506076/ 
