@@ -1,0 +1,26 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bugs In The Shutter</title>
+  <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
+  <link href="http://photos.zen-hacking.com/"/>
+  <updated>{{ site.title | dated_to_xmlschema }}</updated>
+  <id>http://photos.zen-hacking.com/</id>
+  <author>
+    <name>Thomas Mayfield</name>
+    <email>Thomas.Mayfield@gmail.com</email>
+  </author>
+  {% for post in site.posts %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="http://photos.zen-hacking.com{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://photos.zen-hacking.com{{ post.id }}</id>
+    <content type="html">
+      {% if post.img %}&lt;a href="{{post.img_link}}"&gt;&lt;img src="{{post.img}}"/&gt;&lt;/a&gt;{% endif %}
+      {{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>

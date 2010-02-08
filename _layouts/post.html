@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Bugs In The Shutter
 ---
-{% for page in paginator.posts %}
 <div class="post{% if forloop.last %} last-page{% endif %}">
   <div class="data">
     <h2><a href="{{page.url}}">{{page.title}}</a></h2>
@@ -10,7 +8,6 @@ title: Bugs In The Shutter
   </div>
   <div class="content">
     {% if page.img %}<a href="{{page.img_link}}"><img src="{{page.img}}"/></a>{% endif %}
-    {{page.content}}
+    {{content}}
   </div>
 </div>
-{% endfor %}
