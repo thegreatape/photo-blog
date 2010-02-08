@@ -6,7 +6,7 @@ layout: nil
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>{{ site.title | dated_to_xmlschema }}</updated>
+  <updated>{{ site.time| date_to_xmlschema }}</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
