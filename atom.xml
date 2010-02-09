@@ -12,7 +12,7 @@ layout: nil
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:20 %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="http://photos.zen-hacking.com{{ post.url }}"/>
