@@ -3,12 +3,22 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-02-10T18:49:11-05:00</updated>
+  <updated>2010-02-10T19:50:56-05:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Icicles</title>
+    <link href="http://photos.zen-hacking.com/2010/02/10/icicles.html"/>
+    <updated>2010-02-10T00:00:00-05:00</updated>
+    <id>http://photos.zen-hacking.com/2010/02/10/icicles</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4347518476/"&gt;&lt;img src="http://farm5.static.flickr.com/4039/4347518476_6749d095b6.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Lattice And Snow</title>
@@ -197,16 +207,6 @@
     <id>http://photos.zen-hacking.com/2009/10/03/stinkbug</id>
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/3977524553/"&gt;&lt;img src="http://farm4.static.flickr.com/3441/3977524553_9f66fb655c.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Basement</title>
-    <link href="http://photos.zen-hacking.com/2009/10/02/basement.html"/>
-    <updated>2009-10-02T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/02/basement</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3976386276/"&gt;&lt;img src="http://farm3.static.flickr.com/2450/3976386276_21f3314c9d.jpg"/&gt;&lt;/a&gt;
       </content>
   </entry>
   
