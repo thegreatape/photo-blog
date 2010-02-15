@@ -20,6 +20,7 @@ for item in soup('item'):
                 'title: %s \n' % item.title.contents[0],
                 'img: %s \n' % thumb,
                 'img_link: %s \n' % item.link.contents[0],
+                'date: %s \n' % photo_date.strftime('%Y-%m-%dT%H:%M:%S-05:00'),
                 '---\n',
                 description]
         open('_posts/%s' % post_title, 'w').writelines(post)

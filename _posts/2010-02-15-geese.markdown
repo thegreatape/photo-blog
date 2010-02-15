@@ -1,0 +1,6 @@
+---
+title: Geese 
+img: http://farm3.static.flickr.com/2803/4360974296_ff25608ef2.jpg 
+img_link: http://www.flickr.com/photos/twitchdotnet/4360974296/ 
+date: 2010-02-15T15:38:55-05:00 
+---

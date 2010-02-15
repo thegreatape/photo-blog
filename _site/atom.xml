@@ -3,12 +3,32 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-02-15T18:19:56-05:00</updated>
+  <updated>2010-02-15T18:42:08-05:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Geese</title>
+    <link href="http://photos.zen-hacking.com/2010/02/15/geese.html"/>
+    <updated>2010-02-15T15:38:55-05:00</updated>
+    <id>http://photos.zen-hacking.com/2010/02/15/geese</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4360974296/"&gt;&lt;img src="http://farm3.static.flickr.com/2803/4360974296_ff25608ef2.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
+  
+  <entry>
+    <title>Snowbound Sunset</title>
+    <link href="http://photos.zen-hacking.com/2010/02/15/snowbound-sunset.html"/>
+    <updated>2010-02-15T15:38:54-05:00</updated>
+    <id>http://photos.zen-hacking.com/2010/02/15/snowbound-sunset</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4360974250/"&gt;&lt;img src="http://farm3.static.flickr.com/2737/4360974250_8d2cdbcb22.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Icicles</title>
@@ -187,26 +207,6 @@
     <id>http://photos.zen-hacking.com/2009/10/04/glassblower</id>
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981477395/"&gt;&lt;img src="http://farm3.static.flickr.com/2662/3981477395_245996876b.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Gargolye and Leaves</title>
-    <link href="http://photos.zen-hacking.com/2009/10/04/gargolye-and-leaves.html"/>
-    <updated>2009-10-04T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/04/gargolye-and-leaves</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981477141/"&gt;&lt;img src="http://farm3.static.flickr.com/2516/3981477141_aa57f13371.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Stinkbug</title>
-    <link href="http://photos.zen-hacking.com/2009/10/03/stinkbug.html"/>
-    <updated>2009-10-03T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/03/stinkbug</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3977524553/"&gt;&lt;img src="http://farm4.static.flickr.com/3441/3977524553_9f66fb655c.jpg"/&gt;&lt;/a&gt;
       </content>
   </entry>
   
