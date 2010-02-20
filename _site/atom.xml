@@ -3,12 +3,24 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-02-15T18:47:35-05:00</updated>
+  <updated>2010-02-20T17:34:51-05:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Jewelry</title>
+    <link href="http://photos.zen-hacking.com/2010/02/20/jewelry.html"/>
+    <updated>2010-02-20T13:54:27-05:00</updated>
+    <id>http://photos.zen-hacking.com/2010/02/20/jewelry</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4374090176/"&gt;&lt;img src="http://farm5.static.flickr.com/4039/4374090176_0d6f91eafb.jpg"/&gt;&lt;/a&gt;
+      &lt;p&gt;One piece from a set I shot for my fianc&amp;#233;e&amp;#8217;s &lt;a href='http://www.etsy.com/shop/inksplotter'&gt;Etsy page&lt;/a&gt;. To get that white-background-to-infinity effect, I wound up building a DIY lightbox on the cheap after reading &lt;a href='http://strobist.blogspot.com/2006/07/how-to-diy-10-macro-photo-studio.html'&gt;this article on Strobist&lt;/a&gt;. Pretty much just a cardboard box with sides cut out and covered with tissue paper, a sheet of posterboard, and a bunch of movable light sources. Good times!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.flickr.com/photos/twitchdotnet/4374090088/'&gt;&lt;img src='http://farm3.static.flickr.com/2708/4374090088_58d728b982.jpg' alt='DIY Lightbox' /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <title>Geese</title>
@@ -197,16 +209,6 @@
     <id>http://photos.zen-hacking.com/2009/10/04/knight</id>
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981476771/"&gt;&lt;img src="http://farm3.static.flickr.com/2436/3981476771_67b4bbfcac.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Glassblower</title>
-    <link href="http://photos.zen-hacking.com/2009/10/04/glassblower.html"/>
-    <updated>2009-10-04T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/04/glassblower</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981477395/"&gt;&lt;img src="http://farm3.static.flickr.com/2662/3981477395_245996876b.jpg"/&gt;&lt;/a&gt;
       </content>
   </entry>
   
