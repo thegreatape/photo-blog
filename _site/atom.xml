@@ -3,12 +3,22 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-02-20T17:34:51-05:00</updated>
+  <updated>2010-02-22T07:49:07-05:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Proto-Mossarium</title>
+    <link href="http://photos.zen-hacking.com/2010/02/21/proto-mossarium.html"/>
+    <updated>2010-02-21T19:19:46-05:00</updated>
+    <id>http://photos.zen-hacking.com/2010/02/21/proto-mossarium</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4377958724/"&gt;&lt;img src="http://farm5.static.flickr.com/4061/4377958724_2a15cc801f.jpg"/&gt;&lt;/a&gt;
+      &lt;p&gt;Further dispatches from the pictures-of-my-fiancee&amp;#8217;s-projects dept.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <title>Jewelry</title>
@@ -199,16 +209,6 @@
     <id>http://photos.zen-hacking.com/2009/10/04/stiltwalker</id>
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981476355/"&gt;&lt;img src="http://farm3.static.flickr.com/2538/3981476355_6de1626362.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Knight</title>
-    <link href="http://photos.zen-hacking.com/2009/10/04/knight.html"/>
-    <updated>2009-10-04T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/04/knight</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3981476771/"&gt;&lt;img src="http://farm3.static.flickr.com/2436/3981476771_67b4bbfcac.jpg"/&gt;&lt;/a&gt;
       </content>
   </entry>
   
