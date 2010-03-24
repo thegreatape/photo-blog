@@ -2,6 +2,6 @@
 title: Movie Light (1/365) 
 img: http://farm5.static.flickr.com/4024/4458220419_c36677befe.jpg 
 img_link: http://www.flickr.com/photos/twitchdotnet/4458220419/ 
-date: 2010-03-23T19:02:37-05:00 
+date: 2010-03-23T19:02:37-05:00
 ---
 Dear Netflix- please don't sue me for using your loading screen for lighting. &lt;3, me.
