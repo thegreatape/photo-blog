@@ -3,12 +3,22 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-03-23T23:36:52-04:00</updated>
+  <updated>2010-03-24T20:50:11-04:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Flower (2/365)</title>
+    <link href="http://photos.zen-hacking.com/2010/03/24/flower-%282-365%29.html"/>
+    <updated>2010-03-24T17:24:49-04:00</updated>
+    <id>http://photos.zen-hacking.com/2010/03/24/flower-(2-365)</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4461269140/"&gt;&lt;img src="http://farm3.static.flickr.com/2715/4461269140_9573ca9081.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Movie Light (1/365)</title>
@@ -201,16 +211,6 @@
     <id>http://photos.zen-hacking.com/2009/10/10/berries</id>
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/3998742049/"&gt;&lt;img src="http://farm3.static.flickr.com/2628/3998742049_1b4fe1803a.jpg"/&gt;&lt;/a&gt;
-      </content>
-  </entry>
-  
-  <entry>
-    <title>Thorns</title>
-    <link href="http://photos.zen-hacking.com/2009/10/08/thorns.html"/>
-    <updated>2009-10-08T00:00:00-04:00</updated>
-    <id>http://photos.zen-hacking.com/2009/10/08/thorns</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/3993406619/"&gt;&lt;img src="http://farm4.static.flickr.com/3481/3993406619_381fc6a555.jpg"/&gt;&lt;/a&gt;
       </content>
   </entry>
   
