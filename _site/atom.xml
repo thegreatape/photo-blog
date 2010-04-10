@@ -3,12 +3,22 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-04-08T21:20:40-04:00</updated>
+  <updated>2010-04-10T12:53:36-04:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Martini (18/365)</title>
+    <link href="http://photos.zen-hacking.com/2010/04/09/martini-%2818-365%29.html"/>
+    <updated>2010-04-09T19:41:45-04:00</updated>
+    <id>http://photos.zen-hacking.com/2010/04/09/martini-(18-365)</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4506866362/"&gt;&lt;img src="http://farm3.static.flickr.com/2264/4506866362_73534c784b.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Rainy Spring Evening (17/365)</title>
@@ -200,16 +210,6 @@
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/4428553716/"&gt;&lt;img src="http://farm5.static.flickr.com/4061/4428553716_34802abce2.jpg"/&gt;&lt;/a&gt;
       &lt;p&gt;First shot worth anything with my new T2i.&lt;/p&gt;</content>
-  </entry>
-  
-  <entry>
-    <title>Proto-Mossarium</title>
-    <link href="http://photos.zen-hacking.com/2010/02/21/proto-mossarium.html"/>
-    <updated>2010-02-21T19:19:46-05:00</updated>
-    <id>http://photos.zen-hacking.com/2010/02/21/proto-mossarium</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4377958724/"&gt;&lt;img src="http://farm5.static.flickr.com/4061/4377958724_2a15cc801f.jpg"/&gt;&lt;/a&gt;
-      &lt;p&gt;Further dispatches from the pictures-of-my-fiancee&amp;#8217;s-projects dept.&lt;/p&gt;</content>
   </entry>
   
 </feed>
