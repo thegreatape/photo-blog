@@ -3,12 +3,32 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-04-10T12:53:36-04:00</updated>
+  <updated>2010-04-11T23:37:12-04:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Zucchini (20/365)</title>
+    <link href="http://photos.zen-hacking.com/2010/04/11/zucchini-%2820-365%29.html"/>
+    <updated>2010-04-11T21:25:29-04:00</updated>
+    <id>http://photos.zen-hacking.com/2010/04/11/zucchini-(20-365)</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4513584816/"&gt;&lt;img src="http://farm3.static.flickr.com/2786/4513584816_f415a755a3.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
+  
+  <entry>
+    <title>Dandelion In Sunbeam (19/365)</title>
+    <link href="http://photos.zen-hacking.com/2010/04/10/dandelion-in-sunbeam-%2819-365%29.html"/>
+    <updated>2010-04-10T18:08:30-04:00</updated>
+    <id>http://photos.zen-hacking.com/2010/04/10/dandelion-in-sunbeam-(19-365)</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4509410470/"&gt;&lt;img src="http://farm3.static.flickr.com/2694/4509410470_41f9392b56.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Martini (18/365)</title>
@@ -188,28 +208,6 @@
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/4458220419/"&gt;&lt;img src="http://farm5.static.flickr.com/4024/4458220419_c36677befe.jpg"/&gt;&lt;/a&gt;
       &lt;p&gt;Dear Netflix- please don&amp;#8217;t sue me for using your loading screen for lighting. &amp;#60;3, me.&lt;/p&gt;</content>
-  </entry>
-  
-  <entry>
-    <title>Photopocalypse - 365 Reboot</title>
-    <link href="http://photos.zen-hacking.com/2010/03/23/photopocalypse-365-reboot.html"/>
-    <updated>2010-03-23T20:02:36-04:00</updated>
-    <id>http://photos.zen-hacking.com/2010/03/23/photopocalypse-365-reboot</id>
-    <content type="html">
-      
-      &lt;p&gt;The start of this lil&amp;#8217; photoblog was in great part due to attempting a one-photo-a-day project. I sputtered out after about month that time, but now it&amp;#8217;s back and augmented with &lt;em&gt;social media&lt;/em&gt; (I feel dirty already). Some friends and I have formed &lt;a href='http://www.flickr.com/groups/1340574@N25/'&gt;Photopocalypse&lt;/a&gt;, a Flickr group dedicated to keeping each other going on this one exposure a day thing.&lt;/p&gt;
-
-&lt;p&gt;You should totally join us. Yes, you! I&amp;#8217;m a completely awful photographer, so you&amp;#8217;ve got nothing to be worried about. It&amp;#8217;s a damn good way to get out there and practice. Hopefully, we&amp;#8217;ll learn something along the way!&lt;/p&gt;</content>
-  </entry>
-  
-  <entry>
-    <title>Old Tree At Sunset</title>
-    <link href="http://photos.zen-hacking.com/2010/03/12/old-tree-at-sunset.html"/>
-    <updated>2010-03-12T18:10:59-05:00</updated>
-    <id>http://photos.zen-hacking.com/2010/03/12/old-tree-at-sunset</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4428553716/"&gt;&lt;img src="http://farm5.static.flickr.com/4061/4428553716_34802abce2.jpg"/&gt;&lt;/a&gt;
-      &lt;p&gt;First shot worth anything with my new T2i.&lt;/p&gt;</content>
   </entry>
   
 </feed>
