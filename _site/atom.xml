@@ -3,12 +3,22 @@
   <title>Bugs In The Shutter</title>
   <link href="http://photos.zen-hacking.com/atom.xml" rel="self"/>
   <link href="http://photos.zen-hacking.com/"/>
-  <updated>2010-04-16T19:36:59-04:00</updated>
+  <updated>2010-04-17T16:26:26-04:00</updated>
   <id>http://photos.zen-hacking.com/</id>
   <author>
     <name>Thomas Mayfield</name>
     <email>Thomas.Mayfield@gmail.com</email>
   </author>
+  
+  <entry>
+    <title>Poinsettia (26/365)</title>
+    <link href="http://photos.zen-hacking.com/2010/04/17/poinsettia-%2826-365%29.html"/>
+    <updated>2010-04-17T14:18:40-04:00</updated>
+    <id>http://photos.zen-hacking.com/2010/04/17/poinsettia-(26-365)</id>
+    <content type="html">
+      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4529212534/"&gt;&lt;img src="http://farm5.static.flickr.com/4065/4529212534_aaea0c7a76.jpg"/&gt;&lt;/a&gt;
+      </content>
+  </entry>
   
   <entry>
     <title>Morning Coffee (25/365)</title>
@@ -198,16 +208,6 @@
     <content type="html">
       &lt;a href="http://www.flickr.com/photos/twitchdotnet/4474346789/"&gt;&lt;img src="http://farm3.static.flickr.com/2687/4474346789_ec319fece1.jpg"/&gt;&lt;/a&gt;
       </content>
-  </entry>
-  
-  <entry>
-    <title>Juggling (6/365)</title>
-    <link href="http://photos.zen-hacking.com/2010/03/28/juggling-%286-365%29.html"/>
-    <updated>2010-03-28T19:24:27-04:00</updated>
-    <id>http://photos.zen-hacking.com/2010/03/28/juggling-(6-365)</id>
-    <content type="html">
-      &lt;a href="http://www.flickr.com/photos/twitchdotnet/4472008554/"&gt;&lt;img src="http://farm5.static.flickr.com/4046/4472008554_7e7c91d45b.jpg"/&gt;&lt;/a&gt;
-      &lt;p&gt;Didn&amp;#8217;t really get the effect I was going for - neither so motion blurred that it&amp;#8217;s abstract, nor frozen in time. Also a bit noisy. I&amp;#8217;d like to try this again when I have a faster lens, an off-camera flash, or both.&lt;/p&gt;</content>
   </entry>
   
 </feed>
