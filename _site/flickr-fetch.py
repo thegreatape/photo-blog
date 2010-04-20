@@ -6,8 +6,8 @@ content = urllib2.urlopen('http://api.flickr.com/services/feeds/photos_public.gn
 soup = BeautifulStoneSoup(content)
 posts = os.listdir('_posts')
 for item in soup('item'):
-    datestr = re.sub(' [-\+]\d+$', '', item.pubdate.contents[0]) #strptime doesn't do timezones well :-(
-    photo_date = datetime(*time.strptime(datestr, '%a, %d %b %Y %H:%M:%S')[:6])
+    datestr = re.sub('[-\+]\d+:\d+$', '', item.__getattr__('dc:date.taken').contents[0]) #strptime doesn't do timezones well :-(
+    photo_date = datetime(*time.strptime(datestr, '%Y-%m-%dT%H:%M:%S')[:6])
     safe_title = re.sub(r'\s|/', '-', item.title.contents[0].lower());
     post_title = '%s-%s.markdown' % (photo_date.strftime('%Y-%m-%d'), safe_title)
     if not post_title in posts:
